@@ -10,7 +10,7 @@
         padding: 20px;
         width: 200px;
         height: 150px;
-        margin-left: 935px;
+        margin-left: 920px;
 }
 #stafimage
 {
@@ -21,18 +21,27 @@
 {
     background-color: green;
         width: 300px;
-        border: 15px solid:green;
+        border: 15px solid green;
         padding: 60px;
         margin: 20px;
-        margin-left:820px
-        
-}
+        margin-left: 705px;}
 .example
 {
     background-color: green;
         width: 300px;
-        border: 15px solid:green;
+        border: 15px solid green;
         padding: 60px;
         margin: 20px;
-        margin-left: 820px
+        
 }
+#font1
+{
+    font-size: 120px;
+    
+}
+.para01
+{
+    margin-bottom: 300px;
+}
+
+
