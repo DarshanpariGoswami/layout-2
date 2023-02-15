@@ -1,0 +1,38 @@
+#sbutton
+{
+    width: 20px;
+    height: 20px;
+}
+.wearebestchoice
+{
+    border-radius: 25px;
+        background: #73AD21;
+        padding: 20px;
+        width: 200px;
+        height: 150px;
+        margin-left: 935px;
+}
+#stafimage
+{
+    width:1124px;
+    padding-right: 15px;
+}
+.aboutus
+{
+    background-color: green;
+        width: 300px;
+        border: 15px solid:green;
+        padding: 60px;
+        margin: 20px;
+        margin-left:820px
+        
+}
+.example
+{
+    background-color: green;
+        width: 300px;
+        border: 15px solid:green;
+        padding: 60px;
+        margin: 20px;
+        margin-left: 820px
+}
