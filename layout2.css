@@ -3,6 +3,17 @@
     width: 20px;
     height: 20px;
 }
+.w3-containe
+{
+    position: relative;
+    top: 20px;
+}
+.comapanyname
+{
+position: relative;
+    bottom: 40px;
+    left: 30px;
+}
 .wearebestchoice
 {
     border-radius: 25px;
@@ -11,11 +22,15 @@
         width: 200px;
         height: 150px;
         margin-left: 920px;
+        position: relative;
+        bottom: 70px;
 }
 #stafimage
 {
     width:1124px;
     padding-right: 15px;
+    position: relative;
+    bottom: 50;
 }
 .aboutus
 {
@@ -24,7 +39,12 @@
         border: 15px solid green;
         padding: 60px;
         margin: 20px;
-        margin-left: 705px;}
+        margin-left: 705px;
+    position: relative;
+    bottom: 767px;
+    left: 118px;
+    }
+
 .example
 {
     background-color: green;
@@ -39,9 +59,24 @@
     font-size: 120px;
     
 }
+#font2 {
+    font-size: 120px;
+
+}
+#serives{
+    position: relative;
+    bottom: 550px;
+    left: 112px
+}
 .para01
 {
     margin-bottom: 300px;
+}
+.service1
+{
+position: relative;
+    bottom: 329px;
+    left: 110px
 }
 
 
